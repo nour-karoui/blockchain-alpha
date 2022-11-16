@@ -1,0 +1,36 @@
+{
+  "name": "dns-socket",
+  "version": "3.0.0",
+  "description": "Make custom low-level DNS requests from node with retry support.",
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "repository": "mafintosh/dns-socket",
+  "homepage": "https://github.com/mafintosh/dns-socket",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "eslint --color *.js && tape test.js"
+  },
+  "dependencies": {
+    "dns-packet": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "tape": "^4.8.0"
+  },
+  "keywords": [
+    "dns",
+    "domain",
+    "socket",
+    "low-level"
+  ],
+  "files": [
+    "index.js"
+  ]
+}

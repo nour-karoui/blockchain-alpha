@@ -1,0 +1,30 @@
+{
+  "name": "k-rpc",
+  "version": "4.3.1",
+  "description": "Low-level implementation of the k-rpc protocol used the BitTorrent DHT.",
+  "main": "index.js",
+  "dependencies": {
+    "buffer-equals": "^1.0.3",
+    "k-bucket": "^4.0.0",
+    "k-rpc-socket": "^1.7.2",
+    "randombytes": "^2.0.5",
+    "safe-buffer": "^5.1.1"
+  },
+  "devDependencies": {
+    "standard": "*",
+    "tape": "^4.4.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/k-rpc.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/k-rpc/issues"
+  },
+  "homepage": "https://github.com/mafintosh/k-rpc"
+}
