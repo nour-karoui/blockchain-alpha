@@ -7,7 +7,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/nour-karoui/blockchain-alpha/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/nour-karoui/blockchain-alpha" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 🏠 [Homepage](https://github.com/nour-karoui/blockchain-alpha)
 
-## What is Blockchain Alpha?
+## What is Blockcahinn Alpha?
 - Blockchain Alpha is a **minimalistic blockchain that is based on Proof of Stake consensus Algorithm (POS)**.
 - Every node on the blockchain is a **miner and electing a miner happens sequentially**.
 - After mining the transactions, the miner gets **rewarded with crypto that is saved in their wallet**.
