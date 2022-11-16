@@ -1,23 +1,39 @@
 {
+    "name": "blockchain-alpha",
+    "version": "1.0.0",
+    "description": "A blockchain network that allows you to mine blocks using the proof of stake algorithm (POS), every node created is a miner and the mining process happens in sequential way.",
+    "author": "Nour KAROUI",
+    "license": "MIT",
+    "homepage": "https://github.com/nour-karoui/blockchain-alpha#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nour-karoui/blockchain-alpha.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nour-karoui/blockchain-alpha/issues"
+    },
+    "engines": {
+        "npm": ">=5.5.0",
+        "node": ">=9.3.0"
+    },
     "dependencies": {
-      "async": "^3.2.4",
-      "babel-polyfill": "^6.26.0",
-      "body-parser": "^1.20.1",
-      "colors": "^1.4.0",
-      "cron": "^2.1.0",
-      "crypto": "^1.0.1",
-      "crypto-js": "^4.1.1",
-      "dat-swarm-defaults": "^1.0.3",
-      "discovery-swarm": "^6.1.0",
-      "elliptic": "^6.5.4",
-      "express": "^4.18.2",
-      "get-port": "^6.1.2",
-      "handlebars": "^4.7.7",
-      "level": "^8.0.0",
-      "moment": "^2.29.4",
-      "nopt": "^7.0.0",
-      "update-notifier": "^6.0.2"
+        "async": "^3.2.4",
+        "babel-polyfill": "^6.26.0",
+        "body-parser": "^1.20.1",
+        "colors": "^1.4.0",
+        "cron": "^2.1.0",
+        "crypto": "^1.0.1",
+        "crypto-js": "^4.1.1",
+        "dat-swarm-defaults": "^1.0.3",
+        "discovery-swarm": "^6.1.0",
+        "elliptic": "^6.5.4",
+        "express": "^4.18.2",
+        "get-port": "^6.1.2",
+        "handlebars": "^4.7.7",
+        "level": "^8.0.0",
+        "moment": "^2.29.4",
+        "nopt": "^7.0.0",
+        "update-notifier": "^6.0.2"
     },
     "type": "module"
-  }
-  
+}
