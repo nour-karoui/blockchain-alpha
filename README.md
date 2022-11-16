@@ -18,7 +18,7 @@
 
 ### 🏠 [Homepage](https://github.com/nour-karoui/blockchain-alpha)
 
-## What is Blockcahinn Alpha?
+## What is Blockchain Alpha?
 - Blockchain Alpha is a **minimalistic blockchain that is based on Proof of Stake consensus Algorithm (POS)**.
 - Every node on the blockchain is a **miner and electing a miner happens sequentially**.
 - After mining the transactions, the miner gets **rewarded with crypto that is saved in their wallet**.
